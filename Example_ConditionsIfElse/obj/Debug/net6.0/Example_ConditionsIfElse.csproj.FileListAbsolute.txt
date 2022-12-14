@@ -1,0 +1,15 @@
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\bin\Debug\net6.0\Example_ConditionsIfElse.exe
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\bin\Debug\net6.0\Example_ConditionsIfElse.deps.json
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\bin\Debug\net6.0\Example_ConditionsIfElse.runtimeconfig.json
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\bin\Debug\net6.0\Example_ConditionsIfElse.dll
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\bin\Debug\net6.0\Example_ConditionsIfElse.pdb
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\obj\Debug\net6.0\Example_ConditionsIfElse.csproj.AssemblyReference.cache
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\obj\Debug\net6.0\Example_ConditionsIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\obj\Debug\net6.0\Example_ConditionsIfElse.AssemblyInfoInputs.cache
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\obj\Debug\net6.0\Example_ConditionsIfElse.AssemblyInfo.cs
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\obj\Debug\net6.0\Example_ConditionsIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\obj\Debug\net6.0\Example_ConditionsIfElse.dll
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\obj\Debug\net6.0\refint\Example_ConditionsIfElse.dll
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\obj\Debug\net6.0\Example_ConditionsIfElse.pdb
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\obj\Debug\net6.0\Example_ConditionsIfElse.genruntimeconfig.cache
+C:\Users\Lex\Desktop\Examples\Example_ConditionsIfElse\obj\Debug\net6.0\ref\Example_ConditionsIfElse.dll
